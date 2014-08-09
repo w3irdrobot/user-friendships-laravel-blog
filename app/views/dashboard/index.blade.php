@@ -42,4 +42,6 @@
     </tbody>
   </table>
 
+  <p class="right"><a href="/logout">Logout</a></p>
+
 @stop
