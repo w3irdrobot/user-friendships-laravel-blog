@@ -30,7 +30,7 @@
   @endif
 
   <div class="row">
-    <div class="medium-8 medium-offset-2">
+    <div class="medium-10 medium-offset-1 columns">
       @yield('main')
     </div>
   </div>
