@@ -2,7 +2,7 @@
 
 @section('main')
 
-  <h1>Friends</h1>
+  <h2 class="subheader">Friends</h2>
   <table style="width:100%;">
     <thead>
       <tr>
@@ -22,7 +22,7 @@
     </tbody>
   </table>
 
-  <h1>Other People</h1>
+  <h2 class="subheader">Other People</h2>
   <table style="width:100%;">
     <thead>
       <tr>

@@ -8,7 +8,7 @@
   {{ Form::text('email') }}
 
   {{ Form::label('password', 'Password') }}
-  {{ Form::text('password') }}
+  {{ Form::password('password') }}
 
   {{ Form::submit('Login', array('class' => 'button')) }}
 

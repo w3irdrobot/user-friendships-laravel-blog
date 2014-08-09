@@ -20,6 +20,12 @@
 
 </head>
 <body>
+  <div class="row">
+    <div class="medium-10 medium-offset-1 columns">
+      <h1>Club Laravel</h1>
+    </div>
+  </div>
+
   @if ($errors->has())
       @foreach ($errors->all() as $error)
           <div class='alert-box alert' data-alert>
